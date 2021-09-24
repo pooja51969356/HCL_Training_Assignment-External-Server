@@ -1,2 +1,2 @@
-# HCL_Training_Assignment-External-Server
+# Training_Assignment-External-Server
 External-Server
